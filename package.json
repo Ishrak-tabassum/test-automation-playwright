@@ -1,0 +1,25 @@
+{
+  "name": "edutubebd-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "firefox": "0.0.1",
+    "fs": "0.0.1-security",
+    "mocha": "^8.4.0",
+    "mozilla": "0.0.0",
+    "playwright": "^1.11.0",
+    "shelljs": "^0.8.4"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "description": ""
+}
